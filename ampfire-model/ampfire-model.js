@@ -17,7 +17,7 @@ var _ = {
     bind: require('lodash/function/bind'),
     each: require('lodash/collection/each')
   },
-  Firebase = require('client-firebase'),
+  Firebase = require('firebase'),
   Model = require('ampersand-model');
 
 var Ampersand = {
